@@ -1,0 +1,349 @@
+body,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown {
+  background: #080808;
+  color: #f2f2f2;
+}
+
+.heading {
+  font-family: Georgia Pro;
+}
+
+a,
+a:link {
+  color: #f2f2f2;
+}
+
+a,
+a:link,
+a:visited:hover {
+  color: #f2f2f2;
+}
+
+a:visited {
+  color: #f2f2f2;
+}
+
+h4 {
+  font-size: 1.200em;
+}
+
+#header a,
+#header a:visited,
+#header .current,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus {
+  color: #f2f2f2;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a {
+  background: #2a2a2a;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current+.menu {
+  background: #2a2a2a;
+  background-image: -o-linear-gradient(top,rgba(221,221,221,.98) 0%,rgba(204,204,204,.98) 100%);
+}
+
+#header .primary {
+  background: #2a2a2a;
+  background-image: linear-gradient(#1a1a1a 2%,#141414 95%,#333 100%);
+}
+
+#header .search {
+  color: #080808;
+}
+
+#footer {
+  background: linear-gradient(#1a1a1a 2%,#141414 95%,#333 100%);
+  border-top: 1px solid;
+  color: #808080;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+  background: #080808;
+  border: 2px solid #666;
+  box-shadow: unset;
+}
+
+input,
+textarea {
+  box-shadow: unset;
+}
+
+form p {
+  padding: inherit;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label {
+  color: #080808;
+  border: 1px solid;
+  background-image: linear-gradient(#f2f2f2 2%,#666 95%, #080808 100%);
+  border-bottom: unset;
+  box-shadow: unset;
+}
+
+.actions a:visited,
+.action:visited,
+.action a:link,
+.action a:visited {
+  color: #f2f2f2;
+}
+
+a.tag {
+  color: #f2f2f2;
+}
+
+.wrapper {
+  box-shadow: unset;
+}
+
+dl.meta {
+  border: 2px solid #666;
+}
+
+.preface h3 {
+  border-color: #808080;
+}
+
+div.comment,
+li.comment {
+  border: unset;
+}
+
+.search [role="tooltip"] {
+  background: #2a2a2a;
+  border: 1px solid #808080;
+  color: #f2f2f2;
+}
+
+.actions a:visited,
+.action:visited,
+.action a:link,
+.action a:visited {
+  color: #080808;
+}
+
+li.blurb,
+fieldset,
+form dl {
+  border: 1px solid #808080;
+}
+
+form dt {
+  border-bottom: 1px solid #808080;
+}
+
+li.relationships a {
+  background: #333;
+}
+
+.filters .expander {
+  color: #900;
+}
+
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash {
+  background: #141414;
+  border: 1px solid #808080;
+  box-shadow: unset;
+}
+
+#dashboard a,
+#dashboard span {
+  color: #f2f2f2;
+}
+
+.current {
+  background: #900;
+}
+
+#dashboard.own {
+  background: #141414;
+}
+
+#dashboard .current {
+  background: #900;
+}
+
+.listbox,
+fieldset fieldset.listbox {
+  background: #141414;
+  border: 2px solid #666;
+  box-shadow: unset;
+}
+
+.listbox>.heading,
+.listbox .heading a:visited {
+  color: #900;
+}
+
+.listbox .index {
+  background: #141414;
+  box-shadow: inset 1px 1px 1px #808080;
+}
+
+form.verbose legend,
+.verbose form legend {
+  background: #141414;
+  border: 2px solid #666;
+  box-shadow: unset;
+}
+
+fieldset fieldset,
+fieldset dl dl,
+form blockquote.userstuff {
+  background: #080808;
+}
+
+form .notice,
+form ul.notes {
+  box-shadow: unset;
+}
+
+form dd.required {
+  color: #f2f2f2;
+}
+
+.reading h4.viewed {
+  background: transparent;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #141414;
+}
+
+body,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown {
+  background: #080808;
+}
+
+.bookmark .user {
+  border: 1px solid #808080;
+}
+
+.caution {
+  color: #900;
+}
+
+.required {
+  color: #f2f2f2;
+}
+
+a:visited {
+  color: #666;
+}
+
+.required .autocomplete,
+.autocomplete .notice {
+  color: #f2f2f2;
+}
+
+.post .required .warnings,
+dd.required {
+  color: #f2f2f2;
+}
+
+body,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown {
+  background: #080808;
+}
+
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #080808;
+}
+
+.draft {
+  border: 2px dashed #900;
+}
+
+a:visited {
+  color: #f2f2f2;
+}
+
+#outer {
+  background: #080808;
+}
+
+.javascript {
+  background: #080808;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: Georgia, sans-serif;
+}
+
+[role] .tags:nth-child(10) .tag {
+  background: #555;
+}
+
+::-webkit-scrollbar-webkit-overflow-scrolling: auto {
+  color: #666;
+}
+
+dl.index dd {
+  background: #080808;
+}
+
+.comment h4.byline {
+  background: #2a2a2a;
+}
+
+#modal {
+  background: #080808;
+  border: 10px solid #2a2a2a;
+  display: inline-block;
+}
+
+#symbols-key dl {
+  border: 1px solid #808080;
+}
+
+.thread .even {
+  background: #080808;
+}
